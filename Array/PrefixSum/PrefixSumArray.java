@@ -1,4 +1,4 @@
-package PrefixSum;// Prefix Sum Array (Best Approach)
+package PrefixSum;// Prefix Sum Array ( Best Approach )
 
 
 import java.util.Scanner;
